@@ -1,38 +1,13 @@
-# Heading 1
-## Heading 2
-### Heading 3
+# SVG
+### SVG Project for Drawing on the Web
 
-Underline H1
-============
+This is an SVG I made for a class, Drawing on the Web, at NYU.
 
-Underline H2
-------------
+I really like geometric representations of different objects such as hearts, animals,
 
-My mother always told me 
+etc. I thought it would be cool to make a geometric heart where each triangle was its
 
-> Look both ways before you cross the street.
-
-*This text will be italicized*
-
-**This text will be bold**
-
-**Everyone _must_ attend the meeting today**
-
-This is line 1.
-
-This is line 2.
+own piece, and when you hovered over the different pieces the color would change.
 
 
-- Item
-- Item
-- Item
-
-* Item
-* Item
-* Item
-
-1. Item
-2. Item
-3. Item
-
-[Drawing on the Web](http://cs.nyu.edu/courses/spring15/CSCI-UA.0380-002/)
+[My Drawing on the Web Portfolio](http://i6.cims.nyu.edu/~as6644/380/)
